@@ -15,9 +15,7 @@ public class Faculty {
     private String color;
 
     public Faculty() {
-        this.id = id;
-        this.name = name;
-        this.color = color;
+
     }
 
     public Long getId() {

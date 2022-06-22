@@ -15,9 +15,7 @@ public class Student {
     private int age;
 
     public Student() {
-        this.id = id;
-        this.name = name;
-        this.age = age;
+
     }
 
     public Long getId() {
